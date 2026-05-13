@@ -66,6 +66,13 @@ export CS_PYTHON_BIN='/www/wwwroot/cs/py/venv/bin/python3'
 将以下内容加入站点配置的 `location /` 或伪静态规则中：
 
 ```nginx
+location = /browse.php {
+    include fastcgi_params;
+    fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+    fastcgi_pass unix:/tmp/php-cgi-82.sock;
+    fastcgi_read_timeout 3600;
+}
+
 location / {
     try_files $uri $uri/ /index.php?$query_string;
 }
