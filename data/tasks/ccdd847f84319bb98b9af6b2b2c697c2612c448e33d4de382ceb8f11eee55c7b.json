@@ -1,0 +1,21 @@
+{
+  "task_id": "ccdd847f84319bb98b9af6b2b2c697c2612c448e33d4de382ceb8f11eee55c7b",
+  "status": "done",
+  "source": "/www/wwwroot/cs/1/开发工具/putty",
+  "relative_path": "开发工具/putty",
+  "zip_path": "/www/wwwroot/cs/tmp/putty-e7182e01eba5.zip",
+  "download_url": "/tmp/putty-e7182e01eba5.zip",
+  "signature": {
+    "hash": "e7182e01eba50aac2bd157435bcfaef8e35cacac65f14858c57c46914599f695",
+    "mtime": 1777267420,
+    "count": 8
+  },
+  "percent": 100,
+  "speed": "21.95 MB/s",
+  "remaining": "0 s",
+  "started_at": 1777267544,
+  "updated_at": 1777267545,
+  "error": "",
+  "worker_started": true,
+  "worker_pid": 2035724
+}

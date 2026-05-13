@@ -1,0 +1,21 @@
+{
+  "task_id": "6127afb5c8df858064ed679264e455924cdced461e2e43eec40aa1ac88e0a035",
+  "status": "done",
+  "source": "/www/wwwroot/cs/1/音乐工具/落雪音乐/音源",
+  "relative_path": "音乐工具/落雪音乐/音源",
+  "zip_path": "/www/wwwroot/cs/tmp/音源-f2be53625a46.zip",
+  "download_url": "/tmp/%E9%9F%B3%E6%BA%90-f2be53625a46.zip",
+  "signature": {
+    "hash": "f2be53625a463f1f8a9f461cdf39fd668102422bf5a32dadd1eb73c2a860731c",
+    "mtime": 1777376270,
+    "count": 8
+  },
+  "percent": 100,
+  "speed": "5.71 MB/s",
+  "remaining": "0 s",
+  "started_at": 1777377936,
+  "updated_at": 1777377936,
+  "error": "",
+  "worker_started": true,
+  "worker_pid": 17204
+}

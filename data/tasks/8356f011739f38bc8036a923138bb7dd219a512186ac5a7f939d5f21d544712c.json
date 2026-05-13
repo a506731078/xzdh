@@ -1,0 +1,21 @@
+{
+  "task_id": "8356f011739f38bc8036a923138bb7dd219a512186ac5a7f939d5f21d544712c",
+  "status": "done",
+  "source": "/www/wwwroot/cs/1/Notepad++",
+  "relative_path": "Notepad++",
+  "zip_path": "/www/wwwroot/cs/tmp/Notepad++-a076b84d3fcd.zip",
+  "download_url": "/tmp/Notepad%2B%2B-a076b84d3fcd.zip",
+  "signature": {
+    "hash": "a076b84d3fcda2c8e5ab278361854eb4801a954ab59a6d90d7af1c71a581d3d9",
+    "mtime": 1777218297,
+    "count": 56
+  },
+  "percent": 100,
+  "speed": "23.73 MB/s",
+  "remaining": "0 s",
+  "started_at": 1777257402,
+  "updated_at": 1777257403,
+  "error": "",
+  "worker_started": true,
+  "worker_pid": 1984044
+}
